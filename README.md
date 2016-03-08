@@ -3,9 +3,7 @@ This in an online fund trading system.
 
 Two types of users: employees and customers.
 
-It'a based on MVC model.
-
-Written in Java.
+It'a based on MVC model, written in Java.
 
 Some key words: MVC, JSP, MySQL, concurrency, online trading, etc.
 
